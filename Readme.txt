@@ -1,2 +1,2 @@
 def multiply:
-    pass
+    return x*y
